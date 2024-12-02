@@ -24,7 +24,7 @@ more-itertools==8.0.2
 multidict==4.7.4
 packaging==19.2
 pluggy==0.13.1
-py==1.8.1
+py==1.10.0
 PyMySQL==0.9.3
 pyparsing==2.4.6
 pytest==5.3.2
